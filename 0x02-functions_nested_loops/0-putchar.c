@@ -8,8 +8,7 @@
 int main(void)
 {
 	char frekidus[] = "_putchar";
-	int c;
-	for (c = 0; c < 8; c++)
+	for (int c = 0; c < 8; c++)
 	{
 		_putchar(frekidus[c]);
 	}
