@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- * main - Entry point
+ * main - Entry block
+ * @void: no argument
  *
- * Return: Always 0 (Success)
- */
+ * Return: 0
+ **/
 int main(void)
 {
 	char frekidus[] = "_putchar";
